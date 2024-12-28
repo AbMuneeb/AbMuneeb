@@ -1,16 +1,51 @@
 ## Hi there 👋
 
-<!--
-**AbMuneeb/AbMuneeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Abdul Muneeb Akram
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A passionate **Flutter Developer** with 6 years of experience in building scalable, efficient, and user-friendly mobile applications. I specialize in **Flutter**, **Android Native**, and **iOS** development.
+
+---
+
+## 🔧 Skills & Expertise
+
+### **Programming Languages**
+- Dart
+- Java
+- Kotlin
+- Swift
+
+### **Frameworks & Tools**
+- Flutter
+- Android Native
+- Firebase
+- RESTful APIs
+- Bloc, Provider
+
+### **Specializations**
+- Mobile App Development
+- Payment Gateways Integration
+- Image Processing (OpenCV, TFLite)
+- Real-time Communication (WebRTC, Agora, OpenTok)
+
+### **Certifications & Awards**
+- 🎖️ Exceptional Achievement Award
+- 🎖️ Certificate of Appreciation from Bilytica
+
+---
+
+## 🌟 Achievements
+
+- Developed **PayPeople** and **PeopleQlik**, used by top organizations like **Pepsi**, **Unilever**, and **Interwood**.
+- Built corporate-level apps for healthcare and HR, including **NEOM Health Care** and **CloudPital**.
+- Released several apps on the Play Store with high rankings and wide adoption.
+
+---
+
+## 📫 Let's Connect!
+
+- **Email**: [abmuneeb6@gmail.com](mailto:abmuneeb6@gmail.com)
+- **LinkedIn**: [linkedin.com/in/abdul-muneeb-akram](https://www.linkedin.com/in/abdul-muneeb-akram-5b6372179/)
+- **StackOverflow**: [stackoverflow.com/users/8391563](https://stackoverflow.com/users/8391563/abdul-muneeb)
+
+---
