@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Abdul Muneeb Akram
 
-A passionate **Flutter Developer** with 6 years of experience in building scalable, efficient, and user-friendly mobile applications. I specialize in **Flutter**, **Android Native**, and **iOS** development.
+A passionate **Mobile Application Developer** in building scalable, efficient, and user-friendly mobile applications. I specialize in **Flutter**, **Android Native**, and **iOS** development.
 
 ---
 
