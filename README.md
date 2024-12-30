@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# 👋 Hi, I'm Abdul Muneeb Akram
+# 👋 I'm Abdul Muneeb Akram
 
 A passionate **Mobile Application Developer** in building scalable, efficient, and user-friendly mobile applications. I specialize in **Flutter**, **Android Native**, and **iOS** development.
 
@@ -25,7 +25,7 @@ A passionate **Mobile Application Developer** in building scalable, efficient, a
 ### **Specializations**
 - Mobile App Development
 - Payment Gateways Integration
-- Image Processing (OpenCV, TFLite)
+- AI Integrations (OpenCV, TFLite, Dialogflow)
 - Real-time Communication (WebRTC, Agora, OpenTok)
 
 ### **Certifications & Awards**
