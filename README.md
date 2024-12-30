@@ -1,51 +1,44 @@
-## Hi there 👋
+# 👋 Hello, I'm Abdul Muneeb Akram
 
-
-# 👋 I'm Abdul Muneeb Akram
-
-A passionate **Mobile Application Developer** in building scalable, efficient, and user-friendly mobile applications. I specialize in **Flutter**, **Android Native**, and **iOS** development.
-
----
-
-## 🔧 Skills & Expertise
-
-### **Programming Languages**
-- Dart
-- Java
-- Kotlin
-- Swift
-
-### **Frameworks & Tools**
-- Flutter
-- Android Native
-- Firebase
-- RESTful APIs
-- Bloc, Provider
-
-### **Specializations**
-- Mobile App Development
-- Payment Gateways Integration
-- AI Integrations (OpenCV, TFLite, Dialogflow)
-- Real-time Communication (WebRTC, Agora, OpenTok)
-
-### **Certifications & Awards**
-- 🎖️ Exceptional Achievement Award
-- 🎖️ Certificate of Appreciation from Bilytica
+![Flutter](https://img.shields.io/badge/Flutter-3DDC84?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
-## 🌟 Achievements
+## 🔥 About Me
 
-- Developed **PayPeople** and **PeopleQlik**, used by top organizations like **Pepsi**, **Unilever**, and **Interwood**.
-- Built corporate-level apps for healthcare and HR, including **NEOM Health Care** and **CloudPital**.
-- Released several apps on the Play Store with high rankings and wide adoption.
+I am a **Mobile App Developer** with expertise in **Flutter**, **Android Native**, and **iOS**. My experience spans across healthcare, HR, and corporate applications, delivering solutions that impact thousands of users.
+
+- 🌐 Based in Lahore, Pakistan
+- 🏆 Recognized with awards for exceptional contributions
 
 ---
 
-## 📫 Let's Connect!
+## 🛠️ Tech Stack
 
-- **Email**: [abmuneeb6@gmail.com](mailto:abmuneeb6@gmail.com)
-- **LinkedIn**: [linkedin.com/in/abdul-muneeb-akram](https://www.linkedin.com/in/abdul-muneeb-akram-5b6372179/)
-- **StackOverflow**: [stackoverflow.com/users/8391563](https://stackoverflow.com/users/8391563/abdul-muneeb)
+| Area                     | Tools / Languages                                   |
+|--------------------------|----------------------------------------------------|
+| **Mobile Development**   | Flutter, Android Native, iOS (Swift, Objective-C)  |
+| **Backend Integration**  | RESTful APIs, GraphQL                              |
+| **State Management**     | Bloc, Provider                                     |
+| **Other Expertise**      | OpenCV, Firebase, Payment Gateways, WebRTC         |
+
+---
+
+## 🚀 Featured Projects
+
+1. **PayPeople**: A complete HRMS solution, adopted by top organizations in Pakistan and Saudi Arabia.
+2. **CloudPital**: Innovative healthcare apps for modern clinics and hospitals.
+3. **SayaraTech**: Vehicle management solutions using Flutter.
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Muneeb%20Akram-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdul-muneeb-akram-5b6372179/)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-Abdul%20Muneeb%20Akram-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/8391563/abdul-muneeb)
 
 ---
